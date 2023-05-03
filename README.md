@@ -1,9 +1,9 @@
 # HigherOrderProjectors
-## Code to accompany: [Transformations between arbitrary quantum objects and the emergence of indefinite causality](https://arxiv.org/abs/xxxx)
+## Code to accompany: [Transformations between arbitrary quantum objects and the emergence of indefinite causality](https://arxiv.org/abs/2305.01247)
 
 #### Simon Milz, Marco Túlio Quintino
 
-This is a repository for the article [Transformations between arbitrary quantum objects and the emergence of indefinite causality](https://arxiv.org/abs/xxxx)
+This is a repository for the article [Transformations between arbitrary quantum objects and the emergence of indefinite causality](https://arxiv.org/abs/2305.01247)
 
  This code requires:
 - [QETLAB](http://www.qetlab.com/) - a free MATLAB toolbox for quantum entanglement theory.
