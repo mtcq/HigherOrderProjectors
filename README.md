@@ -3,7 +3,7 @@
 
 #### Simon Milz, Marco Túlio Quintino
 
-This is a repository for the article [Transformations between arbitrary (quantum) objects and the emergence of indefinite causality](https://arxiv.org/abs/2305.01247)
+This is a repository for the article [Characterising transformations between quantum objects, 'completeness' of quantum properties, and transformations without a fixed causal order](https://arxiv.org/abs/2305.01247)
 
  This code requires:
 - [QETLAB](http://www.qetlab.com/) - a free MATLAB toolbox for quantum entanglement theory.
